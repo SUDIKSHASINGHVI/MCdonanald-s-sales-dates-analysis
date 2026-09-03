@@ -54,7 +54,7 @@ Order dates
 
 IteM IDs
 
-⚙️ 2. Analytical Workflow
+**⚙️ 2. Analytical Workflow**
 
 Phase 1 --- Data Integration & ETL
 
@@ -116,7 +116,7 @@ transaction timestamps:
 Created a Weekday vs. Weekend classification to analyze differences
 in customer behavior throughout the week.
 
-📊 3. Dashboard Features
+**📊 3. Dashboard Features**
 
 The McDonald's Comprehensive Business Overview dashboard was
 designed with a focus on interactivity, clarity, and executive-level
@@ -136,11 +136,11 @@ KPI                                       Performance
 
 A Donut Chart highlights the contribution of different meal periods.
 
-Key insight:
+**Key insight:**
 🍴 Lunch accounts for 49% of sales volume, making it the primary
 driver of sales activity.
 
-🏆 Product Intelligence
+**🏆 Product Intelligence**
 
 The dashboard provides Top 5 rankings for:
 
@@ -151,7 +151,7 @@ Menu Items
 These rankings highlight the products and categories contributing most
 strongly to sales volume and revenue.
 
-📈 Monthly Sales Trends
+**📈 Monthly Sales Trends**
 
 A Line Chart tracks monthly sales performance and helps identify
 periods of higher demand.
@@ -173,11 +173,11 @@ Day Name
 This enables real-time exploration and drilling into specific customer
 behavior patterns.
 
-💡 4. Key Business Recommendations
+**💡 4. Key Business Recommendations**
 
 The analysis produced the following data-driven recommendations:
 
-1. 👥 Staff Optimization
+**1. 👥 Staff Optimization**
 
 Labor deployment should be maximized during lunch hours, which
 represent the 49% peak window identified in the analysis.
@@ -186,7 +186,7 @@ Business impact:
 Better staffing alignment during peak demand can support smoother
 operations during the busiest period.
 
-2. 📣 Weekend Marketing Strategy
+**2. 📣 Weekend Marketing Strategy**
 
 Targeted family-oriented promotions are recommended for weekends to
 help bridge the revenue gap compared with weekdays.
@@ -195,7 +195,7 @@ Business impact:
 Weekend-focused campaigns can be used to strengthen customer engagement
 during comparatively weaker periods.
 
-3. 🥗 Menu Strategy
+**3. 🥗 Menu Strategy**
 
 Capitalize on the high sales volume of Side Salads by introducing
 healthy-choice meal combos.
@@ -204,7 +204,7 @@ Business impact:
 Combining a high-volume item with meal offerings can create an
 opportunity to strengthen the healthy-choice segment.
 
-🛠️ 5. Technical Stack
+**🛠️ 5. Technical Stack**
 
 Technology                          Purpose
 
@@ -214,7 +214,7 @@ Technology                          Purpose
 
 📌 Pivot Modeling               Advanced data aggregation
 
-🔄 6. Project Workflow
+**🔄 6. Project Workflow**
 
 Raw Transactional Data
         ↓
@@ -234,7 +234,7 @@ Interactive Dashboard
         ↓
 Business Insights & Recommendations
 
-🎯 7. Project Highlights
+**🎯 7. Project Highlights**
 
 What this project demonstrates
 
@@ -256,7 +256,7 @@ What this project demonstrates
 
 ✅ Data-driven business recommendations
 
-📁 8. Suggested Repository Structure
+**8.Suggested Repository Structure**
 
 McDonalds-Business-Overview-Dashboard/
 │
@@ -269,13 +269,14 @@ McDonalds-Business-Overview-Dashboard/
 Note: Update the filenames above to match the actual files
 included in your GitHub repository.
 
-👩‍💻 9. Author
+**👩‍💻 9. Author**
+**Name : Sudiksha singhvi**
+
 
 Project: McDonald's Comprehensive Business Overview Dashboard
-
 Focus: Business Analytics & Data Visualization
 
-⭐ Conclusion
+**⭐ Conclusion**
 
 This project demonstrates how raw transactional data can be transformed
 into an interactive, business-focused dashboard that communicates
